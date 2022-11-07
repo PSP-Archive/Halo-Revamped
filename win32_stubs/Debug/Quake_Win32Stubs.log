@@ -1,0 +1,92 @@
+﻿Build started 6/3/2010 12:30:09 AM.
+Project "C:\Documents and Settings\fr\Desktop\Kurok\win32_stubs\Quake_Win32Stubs.vcxproj" on node 2 (build target(s)).
+PrepareForBuild:
+  Creating directory "C:\Documents and Settings\fr\Desktop\Kurok\Debug\".
+InitializeBuildStatus:
+  Creating "Debug\Quake_Win32Stubs.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Documents and Settings\fr\Desktop\Kurok\win32_stubs\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D _CONSOLE /D PSP /D PSP_HARDWARE_VIDEO /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /fp:except /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\cd_null.c ..\chase.c ..\cl_demo.c ..\cl_input.c ..\cl_main.c ..\cl_parse.c ..\cl_tent.c ..\cmd.c ..\common.c ..\console.c ..\crc.c ..\cvar.c ..\host.c ..\host_cmd.c ..\keys.c ..\mathlib.c ..\menu.c ..\net_dgrm.c ..\net_loop.c ..\net_main.c ..\net_none.c ..\net_vcr.c ..\pr_cmds.c ..\pr_edict.c ..\pr_exec.c ..\r_part.c ..\sbar.c ..\snd_dma.c ..\snd_mem.c ..\snd_mix.c ..\sv_main.c ..\sv_move.c ..\sv_phys.c ..\sv_user.c ..\view.c ..\wad.c ..\world.c ..\zone.c
+  zone.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  world.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  wad.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  view.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  sv_user.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  sv_phys.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  sv_move.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  sv_main.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  snd_mix.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  snd_mem.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  snd_dma.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  sbar.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  r_part.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  pr_exec.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  pr_edict.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  pr_cmds.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  net_vcr.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  net_none.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  net_main.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  net_loop.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  Generating Code...
+  Compiling...
+  net_dgrm.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  menu.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  mathlib.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  keys.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  host_cmd.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  host.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cvar.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  crc.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  console.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  common.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cmd.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cl_tent.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cl_parse.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cl_main.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cl_input.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cl_demo.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  chase.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  cd_null.c
+c:\documents and settings\fr\desktop\kurok\psp\video_hardware.h(22): fatal error C1083: Cannot open include file: 'psptypes.h': No such file or directory
+  Generating Code...
+Done Building Project "C:\Documents and Settings\fr\Desktop\Kurok\win32_stubs\Quake_Win32Stubs.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:08.53

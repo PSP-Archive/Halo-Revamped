@@ -1,0 +1,16 @@
+﻿Build started 6/3/2010 2:19:34 PM.
+Project "C:\Documents and Settings\fr\Desktop\Kurok\psp\Quake_PSP.vcxproj" on node 2 (build target(s)).
+Build:
+  build.bat install
+  Your group is currently "mkpasswd".  This indicates that
+  the /etc/passwd (and possibly /etc/group) files should be rebuilt.
+  See the man pages for mkpasswd and mkgroup then, for example, run
+  mkpasswd -l [-d] > /etc/passwd
+  mkgroup  -l [-d] > /etc/group
+  Note that the -d switch is necessary for domain users.
+  make: *** No rule to make target `install'.  Stop.
+Done Building Project "C:\Documents and Settings\fr\Desktop\Kurok\psp\Quake_PSP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.90
